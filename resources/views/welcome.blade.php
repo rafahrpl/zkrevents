@@ -4,20 +4,12 @@
 
 @section('content')
 
-    <h1>asdasddasaszcxzcxzcxzcx</h1>
-    @if(10 > 1)
-        <p>10>1</p>
-        <p>{{ $name }}</p>
-    @endif
+    @foreach($events as $event)
+        <p>{{ $event->title }} and {{ $event->description }}</p>
+    @endforeach
 
-    @if($name == "Marcos")
-        <p>O nome é {{ $name }} e sua idade é {{ $idade }}</p>
-        @for($i = 0; $i < count($array); $i++)
-            <p>{{ $array[$i] }}</p>
-        @endfor
-    @else
-        <p>O nome não é Marcos</p>
-    @endif
+    <h1>asdasddasaszcxzcxzcxzcx</h1>
+    
 
     @php
         $nameZ = "Josué";

@@ -10,7 +10,7 @@ php artisan serve
 ## Autores
 Raphael Alves
 
-## License
+## Licença
 Projeto com licença aberta.
 
 ## Estado do Projeto
