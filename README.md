@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# laraveltest
-
-
+# ZKR Events
 
 ## Getting started
 
