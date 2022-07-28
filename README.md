@@ -1,21 +1,21 @@
 # ZKR Events
 
-## Description
+## Descrição
 ZRK EVENTS é feito usando Laravel como base. Utilizando bootstrap no frontend.
 
-## Installation
+## Instalação
 Faça o download e execute no caminho raiz da pasta:
 php artisan serve
 
-## Authors and acknowledgment
+## Autores
 Raphael Alves
 
 ## License
 Projeto com licença aberta.
 
-## Project status
+## Estado do Projeto
 No momento o projeto se encontra em desenvolvimento ativo. Com novas funcionalidades sendo acresentadas a momentos oportunos.
-=======
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 ## About Laravel
@@ -36,4 +36,3 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> first commit
